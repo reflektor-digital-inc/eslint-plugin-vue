@@ -9,6 +9,7 @@ ESLint plugin for Vue projects at Reflektor Digital.
   - [`eslint-import-resolver-alias`](https://www.npmjs.com/package/eslint-import-resolver-alias)
   - [`eslint-plugin-import`](https://www.npmjs.com/package/eslint-plugin-import)
   - [`eslint-plugin-vue`](https://www.npmjs.com/package/eslint-plugin-vue)
+  - [`eslint-plugin-nuxt`](https://www.npmjs.com/package/eslint-plugin-nuxt)
 
 > The dependencies are listed as `dependencies` in `package.json` instead of just `devDependencies` so that those packages will be installed automatically when we install this plugin. Hence, the only other package we would need to install is `eslint`.
 
