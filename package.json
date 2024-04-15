@@ -31,7 +31,6 @@
   "scripts": {
     "test": "eslint . -c ./.eslintrc.js",
     "prepare": "husky install",
-    "preinstall": "node scripts/preinstall",
     "pre-commit": "echo \"\nRunning Husky 🐶\n\" && lint-staged"
   },
   "lint-staged": {
