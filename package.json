@@ -25,9 +25,6 @@
     "url": "https://github.com/reflektor-digital-inc/eslint-plugin-vue/issues"
   },
   "homepage": "https://github.com/reflektor-digital-inc/eslint-plugin-vue#readme",
-  "engines": {
-    "yarn": ">=1.22"
-  },
   "scripts": {
     "test": "eslint . -c ./.eslintrc.js",
     "prepare": "husky install",
